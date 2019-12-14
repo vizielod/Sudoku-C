@@ -1,0 +1,131 @@
+# depslib dependency file v1.0
+1447519073 source:e:\egyetem\i.felev\prog1\az_igazi_sudoku\general.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"sudoku.h"
+
+1449346289 e:\egyetem\i.felev\prog1\az_igazi_sudoku\sudoku.h
+
+1449344947 source:e:\egyetem\i.felev\prog1\az_igazi_sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"sudoku.h"
+
+1449327007 source:e:\egyetem\i.felev\prog1\az_igazi_sudoku\nehezseg.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"sudoku.h"
+
+1449344947 source:e:\egyetem\i.felev\prog1\az_igazi_sudoku\sudoku.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"sudoku.h"
+
+1449346289 source:e:\egyetem\i.felev\prog1\az_igazi_sudoku\fajlkezeles.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"sudoku.h"
+
+1449346289 source:e:\egyetem\i.felev\prog1\az_igazi_sudoku\osszerak.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"sudoku.h"
+
+1449346179 source:e:\egyetem\i.felev\prog1\az_igazi_sudoku\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"sudoku.h"
+
+1449344024 source:e:\egyetem\i.felev\prog1\az_igazi_sudoku\jatek.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"sudoku.h"
+
+1449346179 source:e:\egyetem\i.felev\prog1\az_igazi_sudoku\undo.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"sudoku.h"
+
+1449349889 source:e:\egyetem\i.felev\prog1\sudoku\az_igazi_sudoku\fajlkezeles.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"sudoku.h"
+
+1449349889 e:\egyetem\i.felev\prog1\sudoku\az_igazi_sudoku\sudoku.h
+
+1447522673 source:e:\egyetem\i.felev\prog1\sudoku\az_igazi_sudoku\general.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"sudoku.h"
+
+1449347624 source:e:\egyetem\i.felev\prog1\sudoku\az_igazi_sudoku\jatek.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"sudoku.h"
+
+1449330607 source:e:\egyetem\i.felev\prog1\sudoku\az_igazi_sudoku\nehezseg.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"sudoku.h"
+
+1449348547 source:e:\egyetem\i.felev\prog1\sudoku\az_igazi_sudoku\sudoku.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"sudoku.h"
+
+1449365062 source:e:\egyetem\i.felev\prog1\sudoku\az_igazi_sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"sudoku.h"
+
+1449365060 source:e:\egyetem\i.felev\prog1\sudoku\az_igazi_sudoku\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"sudoku.h"
+
+1449365056 source:e:\egyetem\i.felev\prog1\sudoku\az_igazi_sudoku\osszerak.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"sudoku.h"
+
+1449350269 source:e:\egyetem\i.felev\prog1\sudoku\az_igazi_sudoku\undo.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"sudoku.h"
+
